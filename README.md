@@ -1,4 +1,4 @@
-# end to end Sentiment Analysis project  Using Simple RNN
+# End to end Sentiment Analysis project  Using Simple RNN
 # IMDb Movie Review Sentiment Analysis
 
 This project demonstrates the development of an end-to-end sentiment analysis application using a trained Recurrent Neural Network (RNN). The app processes user-submitted IMDb movie reviews and predicts whether the sentiment is positive or negative. It uses TensorFlow/Keras for model creation and Streamlit for building an interactive web application.
@@ -136,7 +136,7 @@ if st.button("Analyze Sentiment"):
 ---
 
 ### 5. Deployment
-To deploy the app:
+ deployed the app:
 - Push the project to a GitHub repository.
 - Use [Streamlit Cloud](https://streamlit.io/cloud) for deployment:
   - Connect your GitHub repository.
@@ -156,23 +156,4 @@ pip install -r requirements.txt
 
 ---
 
-## Future Improvements
-- Add support for more datasets.
-- Improve the RNN model for higher accuracy.
-- Enhance the user interface with additional features (e.g., visualization of predictions).
-
----
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-## Contributing
-Feel free to contribute by submitting issues or pull requests. For major changes, please open an issue first to discuss your ideas.
-
----
-
-## Contact
-For questions or feedback, please reach out via GitHub or email.
 
